@@ -1,1 +1,1 @@
-# arch_config
+My personal Arch Linux dotfiles and install scripts
