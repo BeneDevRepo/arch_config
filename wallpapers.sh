@@ -1,3 +1,4 @@
+#!/bin/bash
 pacman -S --noconfirm\
 	plasma-workspace-wallpapers\
 	archlinux-wallpaper\
