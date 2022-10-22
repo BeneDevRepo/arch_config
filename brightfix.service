@@ -1,0 +1,9 @@
+[Unit]
+Description=Fix Screen Brightness by taking ownership of associated brightness file
+
+[Service]
+Type=oneshot
+ExecStart=nohup /home/bene/arch_config/brightfix.sh &
+
+[Install]
+WantedBy=multi-user.target
